@@ -1,46 +1,22 @@
-# 👋 Hello, I'm Multy Worker
+# 👋 Hi, I'm Multy Worker
 
-## 💻 About Me
-I am an engineering student who is passionate about technology, coding, and learning new things.  
-I enjoy working on projects and improving my skills step by step.
-
----
-
-## 🚀 Interests
-- 💻 Programming & Development  
-- ⚙️ Electronics & Engineering  
-- ✈️ Aviation & Aircraft Systems  
+💻 Engineering Student | Tech Enthusiast  
+⚙️ Interested in coding, electronics, and aviation  
+🚀 Passionate about learning and building new things  
 
 ---
 
 ## 🛠️ Skills
-- Programming: Python, C (basic)
-- Tools: VS Code, GitHub
-- Learning: Web Development
-
----
-
-## 📌 Projects
-- 🌐 Personal Portfolio Website  
-- 🧠 Small coding projects and practice programs  
-
----
-
-## 🌱 Currently Learning
-- Web Development (HTML, CSS, JavaScript)  
-- Improving programming skills  
+- Programming: Python, C  
+- Tools: VS Code, GitHub  
+- Currently Learning: Web Development (HTML, CSS, JavaScript)
 
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: *Add your link here*  
-- 💻 GitHub: *Add your profile link here*  
+- LinkedIn: Add your link here  
+- GitHub: Add your link here  
 
 ---
 
-## ⚡ Fun Fact
-I love exploring how machines and technology work!
-
----
-
-⭐ *Thank you for visiting my profile!*
+⭐ Thanks for visiting my profile!
