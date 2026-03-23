@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hello, I'm Multy Worker
 
-<!--
-**Empairsan/Empairsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I am an engineering student who is passionate about technology, coding, and learning new things.  
+I enjoy working on projects and improving my skills step by step.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- 💻 Programming & Development  
+- ⚙️ Electronics & Engineering  
+- ✈️ Aviation & Aircraft Systems  
+
+---
+
+## 🛠️ Skills
+- Programming: Python, C (basic)
+- Tools: VS Code, GitHub
+- Learning: Web Development
+
+---
+
+## 📌 Projects
+- 🌐 Personal Portfolio Website  
+- 🧠 Small coding projects and practice programs  
+
+---
+
+## 🌱 Currently Learning
+- Web Development (HTML, CSS, JavaScript)  
+- Improving programming skills  
+
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: *Add your link here*  
+- 💻 GitHub: *Add your profile link here*  
+
+---
+
+## ⚡ Fun Fact
+I love exploring how machines and technology work!
+
+---
+
+⭐ *Thank you for visiting my profile!*
