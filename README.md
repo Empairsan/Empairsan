@@ -26,7 +26,7 @@ I enjoy building practical projects and exploring how software connects with ele
 - Exploring real-world problem statements for mini projects
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sandesh-dhotre-73b34b3b3)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeshdhotre913@gmail.com)
 
 ---
